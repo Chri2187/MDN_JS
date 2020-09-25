@@ -12,4 +12,3 @@ const person = {
     }
 };
 
-console.log(person.address['postalCode']);
